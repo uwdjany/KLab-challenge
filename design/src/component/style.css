@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-link{
+ 
+ margin-top: 90px; 
+ margin-left: 18%;
+
+
+
+
+
+}
+input{
+    justify-content: center;
+    margin-left:50% ;
+   width: 30%;
+padding: 20px; 
+justify-content: space-between;
+    
+
+}
+.btn-top{
+    margin-left:40% ;
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 20px;
+    margin-top: 50%;
+    
+
+}
+body{
+background: rgb(156, 43, 43);
+}
+.content-text{
+margin-left: 20%;
+
+
+}
+.paragraph{
+    margin-left: 10%;
+    color: white;
+    font-size: 3rem;
+   
+}
+.paragraph-two{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.input-text{
+   background-color: aliceblue;
+   width: 40%;
+   float: right;
+   margin-right: 10%;
+    margin-top: 30px; 
+   padding: 50px;
+   
+}
+input{
+    width: 60%;
+    justify-content: center;
+    margin: 10px;
+}
